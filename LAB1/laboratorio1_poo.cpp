@@ -1,3 +1,9 @@
+
+/**
+*  Laboratorio 1 POO python
+*  Por: Jerónimo Hoyos Botero
+*/
+
 #include <iostream> 
 #include <algorithm>
 #include <cstdlib>
