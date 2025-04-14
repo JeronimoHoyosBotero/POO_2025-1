@@ -91,5 +91,7 @@ public class Laboratorio_1_poo {
         System.out.println("Contenido del arreglo C: " + Arrays.toString(C));
         System.out.println("El valor maximo del arreglo C es: " + max + " el cual esta en el indice " + indice_max);
 
+        sc.close();
+
     }
 }
