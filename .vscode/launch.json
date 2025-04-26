@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "Laboratorio_2_poo",
+            "request": "launch",
+            "mainClass": "com.mycompany.laboratorio_2_poo.Laboratorio_2_poo",
+            "projectName": "laboratorio_2_poo"
+        },
+        {
             "name": "C/C++: gcc.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
